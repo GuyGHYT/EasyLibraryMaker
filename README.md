@@ -14,13 +14,13 @@ A simple, user-friendly tool for creating standardized library folder structures
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/EasyLibraryMaker.git
+   git clone https://github.com/GuyGHYT/EasyLibraryMaker.git
    cd EasyLibraryMaker
    ```
 
 2. **Install dependencies:**
    ```bash
-   pip install pyyaml
+   pip install requirements.txt
    ```
 
 3. **Run the application:**
