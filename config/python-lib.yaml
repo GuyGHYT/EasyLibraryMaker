@@ -1,0 +1,9 @@
+"subfolders":
+  - "utils"
+  - "plugins"
+  - "components"
+  - "classes"
+  - "constants"
+  - "tests"
+  - "docs"
+  - "config"

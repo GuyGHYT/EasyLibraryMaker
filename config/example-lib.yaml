@@ -1,0 +1,15 @@
+# Example library project structure configuration
+# This configuration defines the source folder and its subfolders
+# along with their respective __init__.py files.
+# Here will be all the keys usable for any library project. 
+
+"subfolders":
+  - "core"
+  - "utils"
+  - "components"
+  - "types"
+  - "interfaces" 
+  - "services"
+  - "constants"
+  - "hooks"
+
