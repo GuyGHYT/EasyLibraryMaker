@@ -72,6 +72,7 @@ Templates are defined in YAML files in the `config/` folder:
   - "utils/__init__.py"
   - "components/__init__.py"
 ```
+(Note: the "inits" portion has NOT been made.)
 
 ## 📋 Template Options
 
