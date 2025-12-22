@@ -20,7 +20,7 @@ A simple, user-friendly tool for creating standardized library folder structures
 
 2. **Install dependencies:**
    ```bash
-   pip install requirements.txt
+   pip install -r requirements.txt
    ```
 
 3. **Run the application:**
